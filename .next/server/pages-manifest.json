@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/api/product": "pages/api/product.js",
+  "/": "pages/index.js",
+  "/api/auth/accessToken": "pages/api/auth/accessToken.js",
+  "/api/categories": "pages/api/categories.js",
+  "/api/order": "pages/api/order.js",
+  "/signin": "pages/signin.js",
+  "/api/user": "pages/api/user.js",
+  "/api/auth/login": "pages/api/auth/login.js",
+  "/profile": "pages/profile.js",
+  "/users": "pages/users.js",
+  "/categories": "pages/categories.js"
+}
